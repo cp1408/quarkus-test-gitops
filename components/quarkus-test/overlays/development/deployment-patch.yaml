@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/dance-bootstrap-app:latest
+      - image: 339634575689.dkr.ecr.us-west-2.amazonaws.com/my-quarkus-app:v1
         name: container-image  
